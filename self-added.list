@@ -12,8 +12,7 @@ DOMAIN-SUFFIX,linktr.ee
 DOMAIN-SUFFIX,post.news
 DOMAIN-SUFFIX,chatpdf.com
 # Zoom meeting
- DOMAIN-SUFFIX,zoom.us,Zoom
- DOMAIN-SUFFIX,zpns.zoom.us,Zoom
- DOMAIN-SUFFIX,cloud.zoom.us,Zoom
- DOMAIN-SUFFIX,zoom.us,Zoom
- DOMAIN-SUFFIX,zoomgov.com,Zoom
+ DOMAIN-SUFFIX,zoom.us
+ DOMAIN-SUFFIX,zpns.zoom.us
+ DOMAIN-SUFFIX,cloud.zoom.us
+ DOMAIN-SUFFIX,zoomgov.com
