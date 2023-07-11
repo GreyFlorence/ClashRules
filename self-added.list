@@ -16,3 +16,5 @@ DOMAIN-SUFFIX,chatpdf.com
  DOMAIN-SUFFIX,zpns.zoom.us
  DOMAIN-SUFFIX,cloud.zoom.us
  DOMAIN-SUFFIX,zoomgov.com
+#Roblox
+DOMAIN-KEYWORD,roblox
