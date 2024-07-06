@@ -11,11 +11,6 @@ DOMAIN,device-metrics-us.amazon.com
 DOMAIN-SUFFIX,linktr.ee
 DOMAIN-SUFFIX,post.news
 DOMAIN-SUFFIX,chatpdf.com
-# Zoom meeting
-DOMAIN-SUFFIX,zoom.us
-DOMAIN-SUFFIX,zpns.zoom.us
-DOMAIN-SUFFIX,cloud.zoom.us
-DOMAIN-SUFFIX,zoomgov.com
 #Roblox
 DOMAIN-KEYWORD,roblox
 #replika
