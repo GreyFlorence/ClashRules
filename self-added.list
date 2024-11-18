@@ -66,5 +66,5 @@ DOMAIN-KEYWORD,z-lib
 DOMAIN-KEYWORD,z-library
 DOMAIN-KEYWORD,zlibrary
 #bluesky
-DOMAIN-KEYWORD,bsky.social
-DOMAIN-KEYWORD,bsky.app
+DOMAIN-SUFFIX,bsky.social
+DOMAIN-SUFFIX,bsky.app
