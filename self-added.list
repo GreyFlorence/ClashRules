@@ -1,78 +1,61 @@
-#DOMAIN,goo.gs
-#DOMAIN-SUFFIX,goo.gs
-DOMAIN-SUFFIX,douchi.space
-DOMAIN-SUFFIX,vox.com
-DOMAIN-SUFFIX,ehgt.org
-DOMAIN-SUFFIX,genius.com
-DOMAIN-SUFFIX,chinadigitaltimes.net
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bingapis.com
-DOMAIN,device-metrics-us.amazon.com
-DOMAIN-SUFFIX,linktr.ee
-DOMAIN-SUFFIX,post.news
-DOMAIN-SUFFIX,chatpdf.com
-#Roblox
-DOMAIN-KEYWORD,roblox
-#replika
-DOMAIN-SUFFIX,replika.com
-$bellesa
-DOMAIN-SUFFIX,bellesaplus.co
-DOMAIN-SUFFIX,bellesa.co
-DOMAIN-SUFFIX,bboutique.co
-DOMAIN-SUFFIX,bellesacams.com
-#swiftstream
-DOMAIN-SUFFIX,swiftstream.gay
-#IP138
-DOMAIN-SUFFIX,IP138.com
-DOMAIN-SUFFIX,apkpure.net
-DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,wbur.org
-DOMAIN-SUFFIX,gracieabrams.com
-DOMAIN,ca.flor.eu.org
-DOMAIN-SUFFIX,hostloc.com
-DOMAIN-SUFFIX,nodeseek.com
-DOMAIN-SUFFIX,hostevaluate.com
-DOMAIN-SUFFIX,liyuans.com
-DOMAIN-SUFFIX,liyuans.com
-DOMAIN-SUFFIX,linux.do
-DOMAIN-SUFFIX,v2ex.com
-DOMAIN-SUFFIX,forbes.com
-#Lovense
-DOMAIN-SUFFIX,lovense-api.com
-DOMAIN-SUFFIX,lovense.com
-DOMAIN-SUFFIX,vibemate.com
-DOMAIN-SUFFIX,tophy.com
-#porn
-DOMAIN-SUFFIX,sex.com
-DOMAIN-SUFFIX,xhamster.com
-DOMAIN-SUFFIX,xnxx.com
-DOMAIN-SUFFIX,premiumbukkake.com
-DOMAIN-SUFFIX,motherless.com
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,xvideos-cdn.com
-DOMAIN-SUFFIX,onlyfans.com
-#torrent
-DOMAIN-SUFFIX,solidtorrents.to
-DOMAIN-SUFFIX,torrentgalaxy.to
-DOMAIN-SUFFIX,torrentgalaxy.mx
-DOMAIN-SUFFIX,tgx.rs
-DOMAIN-SUFFIX,tgx.sb
-#
-DOMAIN-SUFFIX,plati.market
-DOMAIN-SUFFIX,eneba.com
-DOMAIN-SUFFIX,hath.network
-DOMAIN-SUFFIX,digiseller.market
-#Z-lib
-DOMAIN-KEYWORD,z-lib
-DOMAIN-KEYWORD,z-library
-DOMAIN-KEYWORD,zlibrary
-#bluesky
-DOMAIN-SUFFIX,bsky.social
-DOMAIN-SUFFIX,bsky.app
-
-DOMAIN-SUFFIX,sora.com
-DOMAIN-SUFFIX,proxy.incolumitas.com
-DOMAIN-SUFFIX,metacubex.one
-DOMAIN-SUFFIX,hysteria.network
-DOMAIN-SUFFIX,libbyapp.com
-DOMAIN-SUFFIX,deepseek.com
+payload:
+  - '+.douchi.space'
+  - '+.vox.com'
+  - '+.ehgt.org'
+  - '+.genius.com'
+  - '+.chinadigitaltimes.net'
+  - '+.bing.com'
+  - '+.bingapis.com'
+  - 'device-metrics-us.amazon.com'
+  - '+.linktr.ee'
+  - '+.post.news'
+  - '+.chatpdf.com'
+  - '+.replika.com'
+  - '+.bellesaplus.co'
+  - '+.bellesa.co'
+  - '+.bboutique.co'
+  - '+.bellesacams.com'
+  - '+.swiftstream.gay'
+  - '+.IP138.com'
+  - '+.apkpure.net'
+  - '+.x.com'
+  - '+.wbur.org'
+  - '+.gracieabrams.com'
+  - 'ca.flor.eu.org'
+  - '+.hostloc.com'
+  - '+.nodeseek.com'
+  - '+.hostevaluate.com'
+  - '+.liyuans.com'
+  - '+.liyuans.com'
+  - '+.linux.do'
+  - '+.v2ex.com'
+  - '+.forbes.com'
+  - '+.lovense-api.com'
+  - '+.lovense.com'
+  - '+.vibemate.com'
+  - '+.tophy.com'
+  - '+.sex.com'
+  - '+.xhamster.com'
+  - '+.xnxx.com'
+  - '+.premiumbukkake.com'
+  - '+.motherless.com'
+  - '+.phncdn.com'
+  - '+.xvideos-cdn.com'
+  - '+.onlyfans.com'
+  - '+.solidtorrents.to'
+  - '+.torrentgalaxy.to'
+  - '+.torrentgalaxy.mx'
+  - '+.tgx.rs'
+  - '+.tgx.sb'
+  - '+.plati.market'
+  - '+.eneba.com'
+  - '+.hath.network'
+  - '+.digiseller.market'
+  - '+.bsky.social'
+  - '+.bsky.app'
+  - '+.sora.com'
+  - '+.proxy.incolumitas.com'
+  - '+.metacubex.one'
+  - '+.hysteria.network'
+  - '+.libbyapp.com'
+  - '+.deepseek.com'
