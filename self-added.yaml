@@ -64,3 +64,4 @@ payload:
   - '+.overdrive.com'
   - '+.od-cdn.com'
   - '+.gaming.amazon.com'
+  - '+.docker.io'
