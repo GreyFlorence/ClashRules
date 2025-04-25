@@ -1,6 +1,5 @@
 payload:
   - '+.douchi.space'
-  - '+.vox.com'
   - '+.ehgt.org'
   - '+.genius.com'
   - 'device-metrics-us.amazon.com'
@@ -46,3 +45,4 @@ payload:
   - '+.gaming.amazon.com'
   - '+.docker.io'
   - '+.open.spotify.com'
+  - '+.ink.to'
