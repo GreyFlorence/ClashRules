@@ -40,8 +40,6 @@ payload:
   - '+.deepseek.com'
   - '+.remarkable.com'
   - '+.hccc.edu'
-  - '+.overdrive.com'
-  - '+.od-cdn.com'
   - '+.gaming.amazon.com'
   - '+.docker.io'
   - '+.open.spotify.com'
