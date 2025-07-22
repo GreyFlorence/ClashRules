@@ -1,2 +1,3 @@
 payload:
-  - '+.video-ads-module.ad-tech.nbcuni.com'
+  - DOMAIN-SUFFIX,video-ads-module.ad-tech.nbcuni.com
+  - DOMAIN-REGEX,g[^.]+-vod-us-cmaf-prd-[^.]+.cdn.peacocktv.com
