@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,video-ads-module.ad-tech.nbcuni.com
-  - DOMAIN,mt.ssai.peacocktv.com
+#  - DOMAIN,mt.ssai.peacocktv.com
+#  - DOMAIN-REGEX,g[^.]+-vod-us-cmaf-prd-[^.]+.cdn.peacocktv.com
