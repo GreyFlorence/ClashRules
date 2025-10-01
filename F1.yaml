@@ -4,3 +4,4 @@ payload:
   - '+.formula1.my.site.com'
   - '+.f1accountprod.report-uri.com'
   - '+.formula1.my.salesforce-scrt.com'
+  - '+.tiled.media'
