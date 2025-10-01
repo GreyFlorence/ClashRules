@@ -5,3 +5,5 @@ payload:
   - '+.f1accountprod.report-uri.com'
   - '+.formula1.my.salesforce-scrt.com'
   - '+.tiled.media'
+  - 'r.stripe.com'
+  - 'js.stripe.com'
