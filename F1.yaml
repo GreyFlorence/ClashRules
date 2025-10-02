@@ -14,3 +14,5 @@ payload:
   - '+.f1play.com'
   - '+.f1.ascendon.tv'
   - '+.services.prd3.contentdirect.tv'
+  - 'm.stripe.com:'
+  - 'r.stripe.com:'
