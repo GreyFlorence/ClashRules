@@ -17,3 +17,7 @@ payload:
   - 'm.stripe.com:'
   - 'r.stripe.com:'
   - 'js.stripe.com'
+  - '+.abtasty.com'
+  - '+.edigitalsurvey.com'
+  - '+.teads.tv'
+  - '+.nr-data.net'
