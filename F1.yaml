@@ -1,6 +1,7 @@
 payload:
   - '+.bitmovin.com'
   - '+.formula1.com'
+  - '+.opin.media'
   - '+.formula1.my.site.com'
   - '+.f1accountprod.report-uri.com'
   - '+.formula1.my.salesforce-scrt.com'
@@ -11,4 +12,3 @@ payload:
   - '+.f1esports.com'
   - '+.f1manager.com'
   - '+.f1play.com'
-  - 'r.stripe.com'
