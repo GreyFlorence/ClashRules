@@ -16,3 +16,4 @@ payload:
   - '+.services.prd3.contentdirect.tv'
   - 'm.stripe.com:'
   - 'r.stripe.com:'
+  - 'js.stripe.com'
