@@ -63,3 +63,8 @@ payload:
   - '+.biblioplus.com'
   - '+.medici.tv'
   - '+.freegalmusic.com'
+  - '+.medicitv.fr'
+  - '+.medicitv-a.imgix.net'
+  - '+.medicitv-b.imgix.net'
+  - '+.medicitv-c.imgix.net'	
+  - '+.medicitv.imgix.net'
