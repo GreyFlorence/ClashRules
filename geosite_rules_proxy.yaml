@@ -5,4 +5,4 @@ payload:
   - GEOSITE,yahoo
   - GEOSITE,category-media
   - GEOSITE,pikpak
-  - IP-CIDR,216.239.36.144/32
+  - IP-CIDR,216.239.36.144/24
