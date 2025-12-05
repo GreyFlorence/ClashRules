@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,nrk.no
   - DOMAIN-SUFFIX,p3.no
+  - DOMAIN-SUFFIX,nrksuper.no
   - DOMAIN-REGEX,^.*nrk.*\.(telenorcdn|akamaized|contentdelivery)\.net$
   - DOMAIN-REGEX,^.*live.*\.dna\.contentdelivery\.net$
