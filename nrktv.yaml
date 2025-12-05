@@ -1,5 +1,4 @@
 payload:
-  - '+.nrk.no'
-  - '+.p3.no'
-  - '+.nrk-od-world-51.akamaized.net'
-  - '+.nrk-od2-no.telenorcdn.net'
+  - DOMAIN-SUFFIX,nrk.no
+  - DOMAIN-SUFFIX,p3.no
+  - DOMAIN-REGEX,^.*nrk.*\.(telenorcdn|akamaized)\.net$
